@@ -1,0 +1,10 @@
+{
+  "author": "Vasiliy Filileev",
+  "name": "c4d-center-axis",
+  "version": "0.0.1",
+  "description": "Center Axis",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:VasiliyFilileev/c4d-center-axis.git"
+  }
+}
