@@ -45,7 +45,7 @@ def GetKeyModifiers():
             "alt": bc[c4d.BFM_INPUT_QUALIFIER] & c4d.QALT == c4d.QALT,
             "shift": bc[c4d.BFM_INPUT_QUALIFIER] & c4d.QSHIFT == c4d.QSHIFT,
         }
-    
+
     return { "ctrl": False, "alt": False, "shift": False }
 
 
